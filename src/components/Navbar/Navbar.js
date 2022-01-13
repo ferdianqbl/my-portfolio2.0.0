@@ -97,6 +97,20 @@ const Navbar = () => {
               <Link
                 activeClass="active"
                 className="nav-link js-scroll-trigger"
+                to="side-projects"
+                spy={true}
+                smooth={true}
+                duration={100}
+                offset={-50}
+              >
+                Side Projects
+              </Link>
+            </li>
+
+            <li className="nav-item">
+              <Link
+                activeClass="active"
+                className="nav-link js-scroll-trigger"
                 to="experiences"
                 spy={true}
                 smooth={true}
