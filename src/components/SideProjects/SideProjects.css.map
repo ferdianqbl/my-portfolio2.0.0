@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,AAAA,cAAc,CAAC;EAC3B,UAAU,EAAE,OAAO;EACnB,WAAW,EAAE,QAAQ;EACrB,cAAc,EAAE,QAAQ;CACzB",
+    "sources": [
+        "SideProjects.scss"
+    ],
+    "names": [],
+    "file": "SideProjects.css"
+}
