@@ -1,5 +1,11 @@
 [
   {
+    "title": "Laminastore Website",
+    "desc": "Laminastore is a site to top up game accounts easily and quickly. This site was created using Next, Tailwind, and Express",
+    "imgUrl": "/images/project-img-laminastore.png",
+    "href": "https://laminastore.vercel.app/"
+  },
+  {
     "title": "Viralin Website",
     "desc": "Viralin is a job seeker site built using Bootstrap, PHP, and MySQL. This website is used to bring together virators and merchants. You will get the best offer.",
     "imgUrl": "/images/project-img-viralin.png",
